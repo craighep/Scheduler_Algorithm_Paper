@@ -1,0 +1,57 @@
+run:
+
+Simulator run Thu May 02 17:48:27 BST 2013
+uk.ac.aber.rcs.cs211.schedulersim.scheduler.FirstComeFirstServed
+DataFile name:	/home/craig/Dropbox/Assignments/Algorthims/cs211/bin/MyTest3.jobs
+CPU2:1	13
+CPU1:1	37
+CPU3:1	56
+MIXED1:1	63
+IO1:1	75
+Mean elapsed duration	48
+Total CPU time	75
+Total Context Switches	10
+Total Idle time	6
+
+
+Simulator run Thu May 02 17:48:37 BST 2013
+uk.ac.aber.rcs.cs211.schedulersim.scheduler.Lottery
+DataFile name:	/home/craig/Dropbox/Assignments/Algorthims/cs211/bin/MyTest3.jobs
+IO1:1	39
+CPU3:1	42
+CPU1:1	54
+MIXED1:1	64
+CPU2:1	69
+Mean elapsed duration	53
+Total CPU time	69
+Total Context Switches	41
+Total Idle time	0
+
+
+Simulator run Thu May 02 17:48:47 BST 2013
+uk.ac.aber.rcs.cs211.schedulersim.scheduler.HighestPriority
+DataFile name:	/home/craig/Dropbox/Assignments/Algorthims/cs211/bin/MyTest3.jobs
+CPU2:1	13
+CPU1:1	37
+CPU3:1	56
+MIXED1:1	63
+IO1:1	75
+Mean elapsed duration	48
+Total CPU time	75
+Total Context Switches	10
+Total Idle time	6
+
+
+Simulator run Thu May 02 17:48:57 BST 2013
+uk.ac.aber.rcs.cs211.schedulersim.scheduler.ShortestJobFirst
+DataFile name:	/home/craig/Dropbox/Assignments/Algorthims/cs211/bin/MyTest3.jobs
+CPU2:1	13
+CPU1:1	20
+MIXED1:1	44
+CPU3:1	61
+IO1:1	81
+Mean elapsed duration	43
+Total CPU time	81
+Total Context Switches	11
+Total Idle time	12
+
